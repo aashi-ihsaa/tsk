@@ -1,0 +1,1 @@
+//draw_sprite_ext(sprite_index, 0, camera_get_view_x(view_camera[0]) + 19, camera_get_view_y(view_camera[0]) + 326, image_xscale, image_yscale, image_angle, image_blend, image_alpha)

@@ -1,0 +1,16 @@
+{
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": {
+    "13d5c484-3fd0-4686-b12a-8a55c146343e": {
+      "Default": {
+        "value": "https://tksm-b85f2-default-rtdb.firebaseio.com/"
+      }
+    },
+    "46eaed75-d17c-40ba-8878-4d9319d09378": {
+      "Default": {
+        "value": "SDKs_When_Available"
+      }
+    }
+  },
+  "resourceVersion": "1.0"
+}
